@@ -53,8 +53,8 @@
 
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
-| Omar Hagrass            | Section 003       | OmarHagrass          |https://omarhagrass.github.io/GitHub-practice-Stat184/      |  
-br>
+| Omar Hagrass            | Section 003       | OmarHagrass          |<https://omarhagrass.github.io/GitHub-practice-Stat184/>      |  
+<br>
 
 
 
