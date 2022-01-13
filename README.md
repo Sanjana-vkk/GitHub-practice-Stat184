@@ -54,6 +54,7 @@
 | Name                    | Class Section     | GitHub ID            | Link for your GitHub Page                                  |  
 |:------------------------|:------------------|:---------------------|:-----------------------------------------------------------|  
 | Omar Hagrass            | Section 003       | OmarHagrass          |<https://omarhagrass.github.io/GitHub-pages-184/>           |  
+| Abdulla Alobeidli       | Section 003       | abdulla-alobeidli    |<https://abdulla-alobeidli.github.io/psu-1/>                |  
 <br>
 
 
