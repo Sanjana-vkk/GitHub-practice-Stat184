@@ -60,6 +60,7 @@
 | Gagan Prajit S.         | Section 003       | GaganPrajit1         |<https://gaganprajit1.github.io/Repo_1/>                    |
 | Kate Davey              | Section 003       | kdavey19             |<https://kdavey19.github.io/GitHub-Introduction/            |
 | Test                   | Section 003       | Git ID                | <https://omarhagrass.github.io/test-rep-184/>              | 
+| Xiang Liu               | Section 003       | Xiang-Liu-john       |<https://xiang-liu-john.github.io/STAT-184/>                |
 
 <br>
 
