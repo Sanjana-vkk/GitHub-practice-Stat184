@@ -57,6 +57,7 @@
 | Abdulla Alobeidli       | Section 003       | abdulla-alobeidli    |<https://abdulla-alobeidli.github.io/psu-1/>                | 
 | Ansh Pallod             | Section 003       | anshpallod           |<https://anshpallod.github.io/STAT184/>                     | 
 | Test                   | Section 003       | Git ID                | <https://omarhagrass.github.io/test-rep-184/>              | 
+| Xiang Liu               | Section 003       | Xiang-Liu-john       |<https://xiang-liu-john.github.io/STAT-184/>                |
 <br>
 
 
