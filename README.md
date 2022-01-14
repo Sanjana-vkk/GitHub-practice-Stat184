@@ -56,7 +56,7 @@
 | Omar Hagrass            | Section 003       | OmarHagrass          |<https://omarhagrass.github.io/GitHub-pages-184/>           |  
 | Abdulla Alobeidli       | Section 003       | abdulla-alobeidli    |<https://abdulla-alobeidli.github.io/psu-1/>                | 
 | Ansh Pallod             | Section 003       | anshpallod           |<https://anshpallod.github.io/STAT184/>                     | 
-| Advait Ashtikar         | Section 003       | AdvaitAshtika        |<https://advaitashtikar.github.io/STAT184---PSU/>           |
+| Advait Ashtikar         | Section 003       | AdvaitAshtikar       |<https://advaitashtikar.github.io/STAT184---PSU/>           |
 
 <br>
 
