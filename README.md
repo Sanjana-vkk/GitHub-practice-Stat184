@@ -21,7 +21,6 @@
     - Choose the theme that you prefer
     - Modify content in the README if you like, but it's fine to use filler content provided for now  
 - Go to OmarHagrass GitHub-practice-Stat184 repo (that generated this page).
-    - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "OmarHagrass", and find the GitHub-practice-Stat184 repo
     - [Top right of OmarHagrass's GitHub-S184 repo] >> Click on the "Fork" to create your own copy of the class repo
     - Your copy of the repo should say "[your-userID]/GitHub-practice-Stat184" at the top with a tiny note saying it was forked from `OmarHagrass/GitHub-practice-Stat184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
