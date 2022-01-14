@@ -56,7 +56,10 @@
 | Omar Hagrass            | Section 003       | OmarHagrass          |<https://omarhagrass.github.io/GitHub-pages-184/>           |  
 | Abdulla Alobeidli       | Section 003       | abdulla-alobeidli    |<https://abdulla-alobeidli.github.io/psu-1/>                | 
 | Ansh Pallod             | Section 003       | anshpallod           |<https://anshpallod.github.io/STAT184/>                     | 
-| Test                   | Section 003       | Git ID                | <https://omarhagrass.github.io/test-rep-184/>              | 
+| Test                    | Section 003       | Git ID               | <https://omarhagrass.github.io/test-rep-184/>              |
+| Lindsey Rich            | Section 003       | lindseyrich          | https://lindseyrich.github.io/Stat184/                     |
+
+
 <br>
 
 
