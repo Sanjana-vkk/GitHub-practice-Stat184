@@ -57,8 +57,8 @@
 | Abdulla Alobeidli       | Section 003       | abdulla-alobeidli    |<https://abdulla-alobeidli.github.io/psu-1/>                | 
 | Ansh Pallod             | Section 003       | anshpallod           |<https://anshpallod.github.io/STAT184/>                     | 
 | Test                    | Section 003       | Git ID               | <https://omarhagrass.github.io/test-rep-184/>              |
-| Lindsey Rich            | Section 003       | lindseyrich          | https://lindseyrich.github.io/Stat184/                     |
-| Olivia DiSanti          | Section 003       | oliviadisanti        |<https://oliviadisanti.github.io/Olivia-DiSanti/            |
+| Lindsey Rich            | Section 003       | lindseyrich          | <https://lindseyrich.github.io/Stat184/>                     |
+| Olivia DiSanti          | Section 003       | oliviadisanti        |<https://oliviadisanti.github.io/Olivia-DiSanti/>            |
 | Yeman Xu                | Section 003       | Lindaxu88              | <https://Lindaxu88.github.io/Lindaxu/>              | 
 | Advait Ashtikar         | Section 003       | AdvaitAshtikar       |<https://advaitashtikar.github.io/STAT184---PSU/>           |
 | Gagan Prajit S.         | Section 003       | GaganPrajit1         |<https://gaganprajit1.github.io/Repo_1/>                    |
