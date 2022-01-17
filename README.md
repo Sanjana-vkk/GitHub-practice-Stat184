@@ -21,7 +21,6 @@
     - Choose the theme that you prefer
     - Modify content in the README if you like, but it's fine to use filler content provided for now  
 - Go to OmarHagrass GitHub-practice-Stat184 repo (that generated this page).
-    - Click the "View on GitHub" button at the top of this page that you're currently reading :) or you can go to GitHub, search for "OmarHagrass", and find the GitHub-practice-Stat184 repo
     - [Top right of OmarHagrass's GitHub-S184 repo] >> Click on the "Fork" to create your own copy of the class repo
     - Your copy of the repo should say "[your-userID]/GitHub-practice-Stat184" at the top with a tiny note saying it was forked from `OmarHagrass/GitHub-practice-Stat184`
     - Click on "README.md" >> Click on the pencil icon to edit your copy of the repo
@@ -57,7 +56,18 @@
 | Abdulla Alobeidli       | Section 003       | abdulla-alobeidli    |<https://abdulla-alobeidli.github.io/psu-1/>                | 
 | Ansh Pallod             | Section 003       | anshpallod           |<https://anshpallod.github.io/STAT184/>                     | 
 | Sarah Lynn DeCarlo      | Section 003       | sarahlynndecarlo     |<https://sarahlynndecarlo.github.io/Assignment1-/>          |
+| Test                    | Section 003       | Git ID               | <https://omarhagrass.github.io/test-rep-184/>              |
+| Lindsey Rich            | Section 003       | lindseyrich          | <https://lindseyrich.github.io/Stat184/>                     |
+| Olivia DiSanti          | Section 003       | oliviadisanti        |<https://oliviadisanti.github.io/Olivia-DiSanti/>            |
+| Yeman Xu                | Section 003       | Lindaxu88              | <https://Lindaxu88.github.io/Lindaxu/>              | 
+| Advait Ashtikar         | Section 003       | AdvaitAshtikar       |<https://advaitashtikar.github.io/STAT184---PSU/>           |
+| Gagan Prajit S.         | Section 003       | GaganPrajit1         |<https://gaganprajit1.github.io/Repo_1/>                    |
+| Kate Davey              | Section 003       | kdavey19             |<https://kdavey19.github.io/GitHub-Introduction/            |
+| Xiang Liu               | Section 003       | Xiang-Liu-john       |<https://xiang-liu-john.github.io/STAT-184/>                |
+| Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
+
 <br>
+
 
 
 
