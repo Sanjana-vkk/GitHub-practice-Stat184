@@ -55,15 +55,25 @@
 | Omar Hagrass            | Section 003       | OmarHagrass          |<https://omarhagrass.github.io/GitHub-pages-184/>           |  
 | Abdulla Alobeidli       | Section 003       | abdulla-alobeidli    |<https://abdulla-alobeidli.github.io/psu-1/>                | 
 | Ansh Pallod             | Section 003       | anshpallod           |<https://anshpallod.github.io/STAT184/>                     | 
+| Sarah Lynn DeCarlo      | Section 003       | sarahlynndecarlo     |<https://sarahlynndecarlo.github.io/Assignment1-/>          |
 | Test                    | Section 003       | Git ID               | <https://omarhagrass.github.io/test-rep-184/>              |
 | Lindsey Rich            | Section 003       | lindseyrich          | <https://lindseyrich.github.io/Stat184/>                     |
 | Olivia DiSanti          | Section 003       | oliviadisanti        |<https://oliviadisanti.github.io/Olivia-DiSanti/>            |
 | Yeman Xu                | Section 003       | Lindaxu88              | <https://Lindaxu88.github.io/Lindaxu/>              | 
 | Advait Ashtikar         | Section 003       | AdvaitAshtikar       |<https://advaitashtikar.github.io/STAT184---PSU/>           |
 | Gagan Prajit S.         | Section 003       | GaganPrajit1         |<https://gaganprajit1.github.io/Repo_1/>                    |
-| Kate Davey              | Section 003       | kdavey19             |<https://kdavey19.github.io/GitHub-Introduction/            |
+| Kate Davey              | Section 003       | kdavey19             |<https://kdavey19.github.io/GitHub-Introduction/>            |
 | Xiang Liu               | Section 003       | Xiang-Liu-john       |<https://xiang-liu-john.github.io/STAT-184/>                |
 | Sharvil Misra.          | Section 003       | sharvmisra           |<https://sharvmisra.github.io/STAT184Misra/>                |
+| Keteng Li               | Section 003       | KevinSC62            |<https://kevinsc62.github.io/Keteng-Li/>                    |
+| Jack Krehely            | Section 003       | jackkrehely          |<https://jackkrehely.github.io/projects/>                   |
+| Xinyu Dou               | Section 003       | Xinyu-Dou            |<https://github.com/Xinyu-Dou/Xinyu-Dou-GitHub-practice-Stat184> |
+| Nick D'Avino            | Section 003       | n-davino.            |<https://n-davino.github.io/davino/>                          |
+| Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
+| Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
+
+
+
 
 <br>
 
