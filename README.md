@@ -64,6 +64,7 @@
 | Gagan Prajit S.         | Section 003       | GaganPrajit1         |<https://gaganprajit1.github.io/Repo_1/>                    |
 | Kate Davey              | Section 003       | kdavey19             |<https://kdavey19.github.io/GitHub-Introduction/>            |
 | Xiang Liu               | Section 003       | Xiang-Liu-john       |<https://xiang-liu-john.github.io/STAT-184/>                |
+| James Talmadge          | Section 003       | James-Talmadge       |<https://james-talmadge.github.io/My-repo/>                 |
 | Keteng Li               | Section 003       | KevinSC62            |<https://kevinsc62.github.io/Keteng-Li/>                    |
 | Jack Krehely            | Section 003       | jackkrehely          |<https://jackkrehely.github.io/projects/>                   |
 | Xinyu Dou               | Section 003       | Xinyu-Dou            |<https://github.com/Xinyu-Dou/Xinyu-Dou-GitHub-practice-Stat184> |
