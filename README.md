@@ -64,6 +64,7 @@
 | Gagan Prajit S.         | Section 003       | GaganPrajit1         |<https://gaganprajit1.github.io/Repo_1/>                    |
 | Kate Davey              | Section 003       | kdavey19             |<https://kdavey19.github.io/GitHub-Introduction/            |
 | Xiang Liu               | Section 003       | Xiang-Liu-john       |<https://xiang-liu-john.github.io/STAT-184/>                |
+| Xinyu Dou               | Section 003       | Xinyu-Dou            |<https://github.com/Xinyu-Dou/Xinyu-Dou-GitHub-practice-Stat184> |
 | Nick D'Avino            | Section 003       | n-davino.            |<https://n-davino.github.io/davino/>                          |
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
