@@ -72,7 +72,7 @@
 | Nick D'Avino            | Section 003       | n-davino.            |<https://n-davino.github.io/davino/>                          |
 | Minghao Song            | Section 003       | Ava-Song             |<https://ava-song.github.io/stat184-p1>                     |
 | Wonbin Kim              | Section 003       | akimwb               |<https://akimwb.github.io/verbose-palm-tree/>               |
-
+| Sanjana Kuchipudi       | Section 003       | Sanjana-vkk          |<https://Sanjana-vkk.github.io/psuSTAT184/>                 |
 
 
 
